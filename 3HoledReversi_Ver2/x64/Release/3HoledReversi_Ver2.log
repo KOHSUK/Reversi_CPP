@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  3HoledReversi_Ver2.cpp
+C:\Users\Kosuke\Documents\Visual Studio 2019\repos\3HoledReversi_Ver2\3HoledReversi_Ver2\3HoledReversi_Ver2.cpp(87,22): warning C4129:  'o': エスケープ シーケンスとして正しく認識されませんでした。
+  Board.cpp
+  Reversi.cpp
+  ReversiMoveSearcher.cpp
+C:\Users\Kosuke\Documents\Visual Studio 2019\repos\3HoledReversi_Ver2\3HoledReversi_Ver2\3HoledReversi_Ver2.cpp(90,21): warning C4129:  'i': エスケープ シーケンスとして正しく認識されませんでした。
+  コード生成しています。
+  Compiler version has changed, fall back to full compilation.
+  All 372 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  3HoledReversi_Ver2.vcxproj -> C:\Users\Kosuke\Documents\Visual Studio 2019\repos\3HoledReversi_Ver2\x64\Release\3HoledReversi_Ver2.exe
